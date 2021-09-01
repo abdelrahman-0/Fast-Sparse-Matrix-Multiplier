@@ -1,2 +1,2 @@
 # Fast-Sparse-Matrix-Multiplier
-Multiply 2 JDS or COOS matrices and return the results matrix in the same format.
+Multiply two matrices either in Jagged Diagonal Storage (JDS) or Coordinate Scheme (COOS) format and return the resulting matrix in the same format.
