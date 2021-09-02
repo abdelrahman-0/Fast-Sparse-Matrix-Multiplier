@@ -5,5 +5,5 @@ Run the following for more information:
 
 `./main --help`
 
-Authors:<br>
+### Authors:<br>
 Abdelrahman A., Omar A., Alexander A.
