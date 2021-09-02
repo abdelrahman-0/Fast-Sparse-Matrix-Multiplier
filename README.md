@@ -3,7 +3,7 @@ Multiply two matrices either in Jagged Diagonal Storage (JDS) or Coordinate Sche
 
 Run the following for more information:
 
-'./main --help'
+`./main --help`
 
 Authors:
 Abdelrahman A., Omar A., Alexander A.
