@@ -6,5 +6,11 @@ Run the following for more information:
 
 `./main --help`
 
+### Usage:
+##### COOS
+`./main -c file1.txt file2.txt`
+##### JDS
+`./main -j file1.txt file2.txt`
+
 ### Authors:<br>
 Abdelrahman A., Omar A., Alexander A.
